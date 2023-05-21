@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F354051%2Fmaven.svg&tbnid=KhaTgUwkB0jz-M&vet=12ahUKEwiywP3Q5IX_AhWHw4sKHRViAc0QMygAegQIARA-..i&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354051%2Fmaven&docid=hE8qcxknVsjg0M&w=512&h=512&q=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0%20maven%20svg%20icon&ved=2ahUKEwiywP3Q5IX_AhWHw4sKHRViAc0QMygAegQIARA-)" width="36" height="36" alt="Maven" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
